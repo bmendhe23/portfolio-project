@@ -1,0 +1,172 @@
+#bg1{
+	background-image: url(https://images.unsplash.com/photo-1508427062913-eba39b5aaf59?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f05b08425380066f48fb0759bdcb2cdc&auto=format&fit=crop&w=1534&q=80);
+	background-size: cover;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-attachment: unset;
+	padding-bottom: 30px;
+}
+
+
+.navbar-default {
+    background-color: #1e3e4e;
+    border-color: #585252;
+}
+
+nav .navbar-brand p{
+	font-size: 11px;
+	letter-spacing: 2px;
+	color:white;
+}
+
+ul li:nth-of-type(1){
+	border-bottom: 5px solid rgba(255,0,0,.5);
+}
+
+button{
+	background-color: #f13c3cb5;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+
+
+.navbar-default {
+    font-family: 'Lato';
+}
+
+.jumbotron{
+	background-color: rgba(0,0,0,0);
+	color: white;
+}
+
+h2{
+	font-size: 50px;
+	font-weight: 600;
+	margin-top: 200px;
+	margin-bottom: 50px;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+#content{
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 13px rgba(0,0,0,0.3),
+				 0px 18px 23px rgba(0,0,0,0.2);
+	font-family: 'Lato';
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: #032638;
+ }
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+
+
+/*Styling for project tab*/
+
+#content2{
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 13px rgba(0,0,0,0.3),
+				 0px 18px 23px rgba(0,0,0,0.2);
+	font-family: 'Lato';
+
+	color: white;
+}
+
+#content2 h2:nth-of-type(1){
+	margin-top: 20px;
+}
+
+
+#bg2{
+	background-image: url(https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e1dcfcaa6dafa547aa5381b603296c94&auto=format&fit=crop&w=1500&q=80);
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-attachment: unset;
+}
+
+.jumbotron p {
+    margin-bottom: 70px;
+}
+
+
+
+/*Stylong for contact tab*/
+
+
+#bg3{
+	background-image: url(https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6354c26fa366d6b456db1d7cf1137c89&auto=format&fit=crop&w=1506&q=80);
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-attachment: unset;
+}
+
+#content3 h2:nth-of-type(1){
+	margin-top: 20px;
+}
+
+#content3{
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 13px rgba(0,0,0,0.3),
+				 0px 18px 23px rgba(0,0,0,0.2);
+	font-family: 'Lato';
+
+	color: white;
+}
+
+
+#icon {
+	float: right;
+	margin-top: 30px;
+	font-size: 100px;
+	color: white;
+}
+
+
+#end{
+	padding-bottom: 42px;
+	background-color: white;
+	font-size: 23px;
+	background-image: url(https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6354c26fa366d6b456db1d7cf1137c89&auto=format&fit=crop&w=1506&q=80);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: unset;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#align{
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 13px rgba(0,0,0,0.3),
+				 0px 18px 23px rgba(0,0,0,0.2);
+	font-family: 'Lato';
+	word-spacing: 12px;
+}
